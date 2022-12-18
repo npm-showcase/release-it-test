@@ -4,5 +4,8 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com"
+  },
+  "devDependencies": {
+    "release-it": "^15.5.1"
   }
 }
